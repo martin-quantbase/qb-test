@@ -1,1 +1,4 @@
-The code is to be written.
+import pandas as pd
+
+def main():
+    return None
